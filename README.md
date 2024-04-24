@@ -1,6 +1,6 @@
 # Eco-Agric Blog-Post-Feature Splint (Group 4)
 
-## Task: Front end team should implement uploading screen UI and valid components.
+## Task: Frontend team should implement uploading screen UI and valid components.
 
 ### Ekene Akubue (Frontend Team Lead) 
 - Installs all the dependencies
